@@ -74,6 +74,7 @@ The name variable remains the same
 c. What is the lexical scope of `newRoll`? 
 
 
+
 ### Task 3 - Stretch Goals
 
 After you have completed the requirements, **create** a new file called `stretch.js` and practice more with closures. There are no tests for these problems.
